@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ast-dev-app/static/css/main.b1911d43.css",
-    "main.js": "/ast-dev-app/static/js/main.12c66f15.js",
+    "main.js": "/ast-dev-app/static/js/main.eb19bc4f.js",
     "static/media/Elementary_classroom_in_Alaska.jpeg": "/ast-dev-app/static/media/Elementary_classroom_in_Alaska.193fa971d78f358993e7.jpeg",
     "static/media/BgImage.png": "/ast-dev-app/static/media/BgImage.e6ce2264f72f07575772.png",
     "static/media/360_F_202421406_QPKY0374aJMV86MF21RCWFL84Ntm5zJL.jpeg": "/ast-dev-app/static/media/360_F_202421406_QPKY0374aJMV86MF21RCWFL84Ntm5zJL.b0bf327e69fc5f4713ff.jpeg",
@@ -11,10 +11,10 @@
     "static/media/live.svg": "/ast-dev-app/static/media/live.81598c610c830279ec5dcf0ad5cb1f1d.svg",
     "index.html": "/ast-dev-app/index.html",
     "main.b1911d43.css.map": "/ast-dev-app/static/css/main.b1911d43.css.map",
-    "main.12c66f15.js.map": "/ast-dev-app/static/js/main.12c66f15.js.map"
+    "main.eb19bc4f.js.map": "/ast-dev-app/static/js/main.eb19bc4f.js.map"
   },
   "entrypoints": [
     "static/css/main.b1911d43.css",
-    "static/js/main.12c66f15.js"
+    "static/js/main.eb19bc4f.js"
   ]
 }
